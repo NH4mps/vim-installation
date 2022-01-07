@@ -2,6 +2,7 @@
 Contains useful tips for vim text editor and some vimrc files with pluggins, mappings and other settings.
 
 ================== USEFUL HOTKEYS ==================
+
 MODE SWITCHINGS:
 a -	append text after the cursor (switch to Inset mode)
 v -	switch to visual mode	V	switch to visual line mode
